@@ -1,7 +1,7 @@
 public class Main {
     /**
-     * fuelConsumption - расход топлива на 100 км
-     * fuelVolume - текущий объем топлива в бензобаке, л
+     * fuelConsumption - fuel consumption per 100 km
+     * fuelVolume - current fuel tank, l
      */
     public static void main(String[] args) {
         int fuelConsumption = 8;
